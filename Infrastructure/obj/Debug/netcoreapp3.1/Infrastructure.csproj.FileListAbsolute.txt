@@ -1,0 +1,15 @@
+E:\c#\quiz1\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+E:\c#\quiz1\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+E:\c#\quiz1\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+E:\c#\quiz1\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+E:\c#\quiz1\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+E:\c#\quiz1\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+E:\c#\quiz1\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+E:\c#\quiz1\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+E:\c#\quiz1\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+E:\c#\quiz1\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+E:\c#\quiz1\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+E:\c#\quiz1\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+E:\c#\quiz1\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+E:\c#\quiz1\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache
+e:\c#\quiz1\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
